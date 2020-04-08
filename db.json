@@ -2,15 +2,21 @@
   "products": [
     {
       "id": 1,
-      "name": "Moto G5",
-      "quant": 2,
-      "price": 13000
+      "Product": "Moto G5",
+      "Quantity": 2,
+      "Price": 13000
     },
     {
       "id": 2,
-      "name": "Racold Geyser",
-      "quant": 3,
-      "price": 6000
-    }
+      "Product": "Racold Geyser",
+      "Quantity": 3,
+      "Price": 6000
+    },
+	  { 
+			"id": 3,
+			"Product": "Dell Inspiration",
+			"Quantity": 4,
+			"Price":50000
+			}
           ]
 }
