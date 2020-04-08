@@ -12,11 +12,11 @@
       "Quantity": 3,
       "Price": 6000
     },
-	  { 
-			"id": 3,
-			"Product": "Dell Inspiration",
-			"Quantity": 4,
-			"Price":50000
-			}
+    { 
+      "id": 3,
+      "Product": "Dell Inspiration",
+      "Quantity": 4,
+      "Price":50000
+    }
           ]
 }
