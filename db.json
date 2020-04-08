@@ -1,4 +1,4 @@
-     myproducts: [ 
+     "myproducts": [ 
         {
           ID: 1,
           Product: 'Moto G5',
@@ -18,3 +18,4 @@
           Price: 'Rs 50000',
         }
      ]
+'
